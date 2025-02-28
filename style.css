@@ -23,6 +23,13 @@ nav {
     background-color: #333;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 .menu-toggle {
     display: flex;
     flex-direction: column;
